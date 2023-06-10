@@ -3,7 +3,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using Upperpik;
 
 public class SpearTipCollider : MonoBehaviour
 {
